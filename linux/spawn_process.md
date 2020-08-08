@@ -1,6 +1,6 @@
 # fork and exec
 
-> [quato](https://pubs.opengroup.org/onlinepubs/009604599/functions/fork.html)
+> [quote](https://pubs.opengroup.org/onlinepubs/009604599/functions/fork.html)
 >
 > There are two reasons why POSIX programmers call `fork()`:
 > 1. Create a new thread of control within the same program<br>
